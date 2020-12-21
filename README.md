@@ -1,4 +1,4 @@
-# youtube_data_scraper
+# YouTube Data Scraper
 The Project is basically scraping the data from the youtube using the youtube free apis.
 
 # steps to setup
